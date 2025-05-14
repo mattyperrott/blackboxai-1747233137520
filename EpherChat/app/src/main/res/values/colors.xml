@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Core Brand Colors -->
+    <color name="colorPrimary">#00FFFF</color>
+    <color name="colorOnPrimary">#121212</color>
+
+    <color name="colorSecondary">#FF00FF</color>
+    <color name="colorOnSecondary">#121212</color>
+
+    <!-- Background & Surface -->
+    <color name="colorBackground">#121212</color>
+    <color name="colorOnBackground">#FFFFFF</color>
+
+    <color name="colorSurface">#1E1E1E</color>
+    <color name="colorOnSurface">#FFFFFF</color>
+
+    <!-- Error -->
+    <color name="colorError">#CF6679</color>
+    <color name="colorOnError">#121212</color>
+</resources>
