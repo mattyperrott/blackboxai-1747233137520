@@ -1,0 +1,8 @@
+buildscript {
+    repositories { google(); mavenCentral() }
+    dependencies { classpath 'com.android.tools.build:gradle:8.5.1' }
+}
+
+plugins { id("org.jetbrains.kotlin.android") version "1.9.20" apply false }
+
+allprojects { repositories { google(); mavenCentral() } }
